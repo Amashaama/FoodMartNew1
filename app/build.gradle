@@ -60,12 +60,12 @@ dependencies {
     androidTestImplementation libs.espresso.core
     implementation libs.picasso
     implementation libs.glide
-    
+    implementation libs.play.services.maps
     compileOnly(libs.projectlombok.lombok)
     annotationProcessor(libs.projectlombok.lombok)
     implementation(libs.dotsindicator)
 
-    implementation libs.play.services.maps
+
 
     implementation libs.glide.v4160
     annotationProcessor libs.compiler

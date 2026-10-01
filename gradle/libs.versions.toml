@@ -23,7 +23,7 @@ firebaseFirestore = "26.1.1"
 play-services-maps = "20.0.0"
 secretsGradlePlugin = "2.0.1"
 googleAndroidLibrariesMapsplatformSecretsGradlePlugin = "2.0.1"
-playServicesLocation = "21.3.0"
+playServicesLocation = "21.4.0"
 workRuntime = "2.11.1"
 
 [libraries]
