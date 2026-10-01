@@ -190,7 +190,7 @@ public class RegistrationActivity extends AppCompatActivity {
                                                    .profilePicUrl(imageUrl)
                                                    .address(address)
                                                    .city(city)
-                                                   .latitude(selectedLongitude)
+                                                   .latitude(selectedLatitude)
                                                    .longitude(selectedLongitude)
                                                    .build();
 

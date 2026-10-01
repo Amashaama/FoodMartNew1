@@ -1,0 +1,3 @@
+# Local Android SDK path and developer-specific API keys
+/local.properties
+/secrets.properties
